@@ -1,3 +1,10 @@
+
+# Tableau assignment link
+
+[click-here](https://public.tableau.com/app/profile/asfia.khatoon/viz/Citi_bike_Analysis_16447152254800/Maindashboard?publish=yes)
+
+
+
 # Tableau Homework - Citi Bike Analytics
 
 ### Before You Begin
